@@ -1,0 +1,9 @@
+itemGroup.Vanilla++=§6Vanilla++
+
+tile.advanced_work_station.name=§bAdvanced Work Station
+
+tile.bluestone_ore.name=§9Bluestone Ore
+tile.bluestone_block.name=§9Bluestone Block
+item.bluestone.name=§9Bluestone
+
+item.iron_rod.name=§7Iron Rod

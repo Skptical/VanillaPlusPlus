@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "###",
+    "###",
+    "###"
+  ],
+
+  "key":
+  {
+    "#":
+    {
+      "item": "vanillaplusplus:bluestone"
+    }
+  },
+
+  "result":
+  {
+    "item":  "vanillaplusplus:bluestone_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "vanillaplusplus",
+    "name": "§6Vanilla++",
+    "description": "§6An extension to regular minecraft..",
+    "version": "§61.0.1",
+    "mcversion": "1.12.2",
+    "url": "https://www.twitch.tv/skptical/videos",
+    "updateUrl": "",
+    "authorList": ["§6Skptical"],
+    "logoFile": "textures:logo/logo.png",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
+

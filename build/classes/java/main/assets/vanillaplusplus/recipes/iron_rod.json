@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "  o",
+    " o ",
+    "o  "
+  ],
+
+  "key":
+  {
+    "o":
+    {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+
+  "result":
+  {
+    "item":  "vanillaplusplus:iron_rod",
+    "count": 2
+  }
+}

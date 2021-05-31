@@ -1,0 +1,39 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+        "xxx",
+        "bab",
+        "zzz"
+    ],
+    "key":
+    {
+        "x":
+        {
+            "item": "vanillaplusplus:bluestone"
+        },
+
+        "a":
+        {
+            "item": "minecraft:crafting_table"
+        },
+
+        "z":
+        {
+            "item": "minecraft:quartz_block",
+            "data": 0
+        },
+
+        "b":
+        {
+            "item": "minecraft:diamond"
+        }
+
+
+    },
+    "result":
+    {
+        "item": "vanillaplusplus:advanced_work_station",
+        "count": 1
+    }
+}
